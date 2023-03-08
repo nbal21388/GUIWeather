@@ -52,7 +52,7 @@ function Apirequest() {
   }, [latitude, longitude]);
 
   
-                //display the object data later put this in Displayinfo.js file
+               
     
  return (
     <div>
